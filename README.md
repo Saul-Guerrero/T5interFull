@@ -1,15 +1,15 @@
-<h1>Taller 9: Saúl Guerrero</h1>
+<h1>Taller 5: Saúl Guerrero</h1>
 <hr>
 
 <h2>Información</h2>
-<p>Curso: Full Stack Basico - Grupo 1</p>
-<p>Profesor: Cristian Patiño</p>
+<p>Curso: Full Stack Intermedio</p>
+<p>Profesor: </p>
 <p>Estudiante: Saúl Guerrero</p>
 <h2>Punto 1: link de figma</h2>
-<a href="https://www.figma.com/file/yGFUPqoqfpL0JHTVJdfGSN/SAUL-GUERRERO?type=design&node-id=0%3A1&t=G1uKbORpCyYAl2c6-1">Link de figma</a>
+<a href="https://www.figma.com/file/6Jl5zDg5be6NVwnPxD5oIT/FullStack-V2?type=design&node-id=0%3A1&mode=design&t=PBqY35nAt6dqLetL-1">Link de figma</a>
 
 <br>
-<a href="https://saul-guerrero.github.io/taller-9-full-stack/">Link pagina</a>
+<a href="https://github.com/Saul-Guerrero/T5interFull/">Link pagina</a>
 
 <h2>Punto 2: html </h2>
 <img src="./public/imagenes/html.png" alt="html">
