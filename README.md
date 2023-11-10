@@ -3,11 +3,11 @@
 
 <h2>Información</h2>
 <p>Curso: Full Stack Intermedio</p>
-<p>Profesor: </p>
+<p>Profesor: Andres Pineda </p>
 <p>Estudiante: Saúl Guerrero</p>
 <h2>Punto 1: link de figma</h2>
 <a href="https://www.figma.com/file/6Jl5zDg5be6NVwnPxD5oIT/FullStack-V2?type=design&node-id=0%3A1&mode=design&t=PBqY35nAt6dqLetL-1">Link de figma</a>
-
+<embed src="FullStack V2.pdf" type="application/pdf" width="100%" height="600px" />
 <br>
 <a href="https://github.com/Saul-Guerrero/T5interFull/">Link pagina</a>
 
